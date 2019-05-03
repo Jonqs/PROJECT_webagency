@@ -1,6 +1,6 @@
 # PROJECT_webagency
 
-A totally self made French SEO agency website built from scratch using a mockup and Bootstrap 4. CDC frenchSEO io.txt contains specs asked from the fictive company but it is in french. 
+A totally self made French SEO agency website built from scratch using a mockup and Bootstrap 4. CDC_frenchSEO_io.txt contains specs asked from the fictive company but it is in french. 
 
 For more informations, contact me at jonasferrut@gmail.com.
 
