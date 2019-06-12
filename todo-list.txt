@@ -1,9 +1,0 @@
-Debug menu in phones (ugly)
-debug stylesheet (Why i need style + stylesheet)
-put img bigger and to the right
-
-"latest project" <-- link to menu
-lorem
-
-blablabla				img of the computer
-
